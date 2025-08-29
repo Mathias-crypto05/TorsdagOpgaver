@@ -1,7 +1,7 @@
-String address
+String address;
 
 int sum;
 
-float division sum;
+float divisionsum;
 
-String message
+String message;
